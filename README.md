@@ -10,7 +10,7 @@ This repository contains code, data, and analysis pipelines for the manuscript:
 
 **"Beyond Frequency: Network Topology Reveals Non-Neutral Evolution in Public T-Cell Receptor Repertoires"**
 
-*Submitted to eLife (December 2025)*
+*Submitted to PNAS (December 2025)*
 
 ### Key Finding
 
